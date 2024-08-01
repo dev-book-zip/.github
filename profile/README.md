@@ -20,3 +20,6 @@
 >
 > ![Progress](https://progress-bar.dev/23/?width=400&color=babaca&suffix=%)
 
+> [켄트 벡의 Tidy First?: 더 나은 소프트웨어 설계를 위한 32가지 코드 정리법](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000007501052)
+>
+> ![Progress](https://progress-bar.dev/28/?width=400&color=babaca&suffix=%)

@@ -14,7 +14,7 @@
 
 > [가상 면접 사례로 배우는 대규모 시스템 설계 기초 2](https://product.kyobobook.co.kr/detail/S000211656186)
 >
-> ![Progress](https://progress-bar.dev/42/?width=400&color=babaca&suffix=%)
+> ![Progress](https://progress-bar.dev/54/?width=400&color=babaca&suffix=%)
 
 > [컴퓨터의 정수](https://product.kyobobook.co.kr/detail/S000203353209)
 >
